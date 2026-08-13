@@ -1,10 +1,10 @@
-# Quvvatla
+Quvvatla
 
 Quvvatla is an early-stage EnergyTech startup developing flexible mobile EV charging solutions for Uzbekistan.
 
-## Project Status
+Project Status
 
-**Pre-MVP**
+Pre-MVP
 
 Quvvatla is currently at the concept development and Pre-MVP stage.
 
@@ -12,53 +12,59 @@ This repository provides a high-level overview of the project concept, proposed 
 
 Software development is planned as part of the future MVP development stage and is not yet included in this repository.
 
-## Problem
+Problem
 
 The rapid growth of electric vehicle adoption is increasing demand for accessible, reliable, and flexible charging infrastructure.
 
-Fixed charging infrastructure cannot always address charging needs across all locations and use cases, creating opportunities for complementary and more flexible charging solutions.
+At the same time, the current charging experience may require EV owners to spend personal time searching for available charging stations, travelling to charging locations, checking availability, waiting for charging slots, and organizing their schedules around the charging process.
 
-## Solution
+Quvvatla is built around a different principle:
 
-Quvvatla is developing a flexible mobile EV charging solution designed to complement existing charging infrastructure and improve access to EV charging.
+EV charging should adapt to people’s lives — not the other way around.
 
-The project is based on a **service-based EV charging model**, allowing charging capacity to be brought closer to where it is needed rather than relying exclusively on fixed charging locations.
+Solution
 
-The initial focus is on the Uzbekistan market, with potential future applications for both private EV users and commercial fleets.
+Quvvatla is developing a flexible mobile EV charging solution designed to complement existing charging infrastructure while making the charging experience more convenient and time-efficient for users.
 
-## Current Development Focus
+The project is based on a service-based EV charging model, designed to bring charging closer to where and when it is needed.
+
+The goal is to reduce the time and effort customers spend managing vehicle charging and allow them to focus more on family, work, health, sport, leisure, and everyday life.
+
+The initial focus is the Uzbekistan market, with potential future applications for both private EV users and commercial fleets.
+
+Current Development Focus
 
 Quvvatla is currently focused on:
 
-* Product architecture
-* Technical feasibility assessment
-* Technology partnerships
-* MVP planning
-* Pilot preparation
-* Market validation
-* Regulatory assessment
+Product architecture
+Technical feasibility assessment
+Technology partnerships
+MVP planning
+Pilot preparation
+Market validation
+Regulatory assessment
 
-## MVP and Pilot Approach
+MVP and Pilot Approach
 
 The first stage of development is focused on defining and validating a practical MVP for mobile EV charging in Uzbekistan.
 
-The planned pilot will be used to evaluate technical feasibility, operational requirements, user demand, and the viability of the service model before broader deployment.
+The planned pilot will be used to evaluate not only technical and operational feasibility, but also whether customers value the convenience, flexibility, and time-saving benefits of mobile EV charging.
 
 Detailed technical architecture and implementation specifications are intentionally not disclosed in this public repository.
 
-## Repository Purpose
+Repository Purpose
 
-This repository provides a public overview of Quvvatla's current **Pre-MVP development stage** for innovation programmes, accelerators, grant applications, potential consortium participation, and discussions with prospective technology partners.
+This repository provides a public overview of Quvvatla’s current Pre-MVP development stage for innovation programmes, accelerators, grant applications, potential consortium participation, and discussions with prospective technology partners.
 
-It is intended to demonstrate the project's development direction and current scope without disclosing confidential technical or commercial information.
+It is intended to demonstrate the project’s development direction and current scope without disclosing confidential technical or commercial information.
 
-## Confidentiality
+Confidentiality
 
 Detailed technical specifications, technology architecture, commercial models, supplier and partner information, unit economics, operational processes, and implementation logic are confidential and are not included in this public repository.
 
-## Contact
+Contact
 
-**Anna Shalagina**
+Anna Shalagina
 Founder, Quvvatla
-Tashkent, Uzbekistan
+Tashkent, Uzbekistan, Uzbekistan
 Tashkent, Uzbekistan
